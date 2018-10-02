@@ -1,5 +1,4 @@
-# Marissa Walker
-
+# About me
 I am a postoctoral researcher at Cal State Fullerton, specializing in gravitational-wave astrophysics.
 
 ## Gravitational waves
